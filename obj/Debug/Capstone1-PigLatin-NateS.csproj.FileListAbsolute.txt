@@ -1,0 +1,7 @@
+C:\Users\Nate Simpson\source\repos\Capstone1-PigLatin-NateS\obj\Debug\Capstone1-PigLatin-NateS.csprojAssemblyReference.cache
+C:\Users\Nate Simpson\source\repos\Capstone1-PigLatin-NateS\obj\Debug\Capstone1-PigLatin-NateS.csproj.CoreCompileInputs.cache
+C:\Users\Nate Simpson\source\repos\Capstone1-PigLatin-NateS\bin\Debug\Capstone1-PigLatin-NateS.exe.config
+C:\Users\Nate Simpson\source\repos\Capstone1-PigLatin-NateS\bin\Debug\Capstone1-PigLatin-NateS.exe
+C:\Users\Nate Simpson\source\repos\Capstone1-PigLatin-NateS\bin\Debug\Capstone1-PigLatin-NateS.pdb
+C:\Users\Nate Simpson\source\repos\Capstone1-PigLatin-NateS\obj\Debug\Capstone1-PigLatin-NateS.exe
+C:\Users\Nate Simpson\source\repos\Capstone1-PigLatin-NateS\obj\Debug\Capstone1-PigLatin-NateS.pdb
